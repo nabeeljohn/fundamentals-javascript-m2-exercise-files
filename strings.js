@@ -48,3 +48,5 @@ console.log(`Index 1: ${idx1}`);
 // Does a string contain a substring
 let doesContain = fullName.includes("Dav");
 console.log(doesContain);
+
+// Done with strings
