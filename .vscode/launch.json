@@ -18,7 +18,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\json.js"
+            "program": "${workspaceFolder}\\numbers-mod04.js"
         }
     ]
 }
